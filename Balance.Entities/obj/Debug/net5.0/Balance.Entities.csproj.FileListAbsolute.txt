@@ -1,0 +1,12 @@
+D:\Projects\Balance\Balance\Balance.Entities\bin\Debug\net5.0\Balance.Entities.deps.json
+D:\Projects\Balance\Balance\Balance.Entities\bin\Debug\net5.0\Balance.Entities.dll
+D:\Projects\Balance\Balance\Balance.Entities\bin\Debug\net5.0\ref\Balance.Entities.dll
+D:\Projects\Balance\Balance\Balance.Entities\bin\Debug\net5.0\Balance.Entities.pdb
+D:\Projects\Balance\Balance\Balance.Entities\obj\Debug\net5.0\Balance.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Balance\Balance\Balance.Entities\obj\Debug\net5.0\Balance.Entities.AssemblyInfoInputs.cache
+D:\Projects\Balance\Balance\Balance.Entities\obj\Debug\net5.0\Balance.Entities.AssemblyInfo.cs
+D:\Projects\Balance\Balance\Balance.Entities\obj\Debug\net5.0\Balance.Entities.csproj.CoreCompileInputs.cache
+D:\Projects\Balance\Balance\Balance.Entities\obj\Debug\net5.0\Balance.Entities.dll
+D:\Projects\Balance\Balance\Balance.Entities\obj\Debug\net5.0\ref\Balance.Entities.dll
+D:\Projects\Balance\Balance\Balance.Entities\obj\Debug\net5.0\Balance.Entities.pdb
+D:\Projects\Balance\Balance\Balance.Entities\obj\Debug\net5.0\Balance.Entities.csproj.AssemblyReference.cache
